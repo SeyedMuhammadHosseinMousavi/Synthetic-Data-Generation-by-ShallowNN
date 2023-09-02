@@ -1,6 +1,4 @@
-%% Synthetic Data Generation by Autoencoders
-% Autoencoders and other neural network architectures can learn complex mappings from the input 
-% space to a latent space and then generate data by decoding points from the latent space.
+%% Synthetic Data Generation by shallowNN
 clear;
 % Load the original dataset
 load fisheriris.mat;
